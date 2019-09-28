@@ -1,0 +1,15 @@
+Author of the code review: Jayson Ng
+Date of the code review: 07/26/18
+Sprint number: Sprint6
+File being reviewed: CommandEnemySpeedUp.cs, CommandEnemySlowDown.cs, CommandEnemyJump.cs, CommandEnemyChangeDirection.cs,  
+Author of the .cs file being reviewed: 
+Number of minutes taken to complete the review: 15 mins
+
+Specific comments on code Readability:
+-Code is highly readable
+-Clear variable and method names
+-Good code format
+- Most method functions are apparent by name, no need for in line comments.
+
+Hypothetical Change:
+By adding additional code of the files that are being review, it would not change the behaviour of the other command classes. Therefore, it is loose coupling.

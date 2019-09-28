@@ -1,0 +1,18 @@
+Author of the code review: Zijian Gao
+Date of the code review: 07/26/18
+Sprint number: Sprint6
+File being reviewed: GrayBrick.cs,GrayFixBrick.cs
+Author of the .cs file being reviewed: Jayson Ng
+Number of minutes taken to complete the review: 15 mins
+
+Code Readability:
+1. Understandable class Names. 
+2. High cohesion.
+3. Low coupling.
+4. Code are maintainable.
+5. minimum extra dependencies.
+
+
+
+
+

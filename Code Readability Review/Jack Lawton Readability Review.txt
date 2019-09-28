@@ -1,0 +1,8 @@
+Author of the code review: Jack Lawton
+Date of the code review: 07/26/18
+Sprint number: Sprint6
+File being reviewed: Achievement.cs
+Author of the .cs file being reviewed: Mo Zhou
+Number of minutes taken to complete the review: 20 mins
+
+The achievement set of classes is very readable. Especially when it comes to variable names, which are a tremendous help when working through a couple of variables that are changed throughout the class. There is a little bit of if statement complexity, but that's really unavoidable since there's an either/or aspect built into the idea of achievements. Even so, the update method has some branching that goes 5 layers deep. It might be worth trying to pare that down, whether by simplifying the logic or distributing responsibility to some other classes. The latter method could both increase readability and decrease the degree of coupling in the class. The only other significant comment I have is that AchievementScreen.cs has a couple of lengthy classes that might be able to be reduced. This adds some visual clutter, but not quite to the point that it's challenging to read.

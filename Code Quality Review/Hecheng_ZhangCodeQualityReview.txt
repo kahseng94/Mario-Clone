@@ -1,0 +1,15 @@
+Author of the code review: Hecheng Zhang
+Date of the code review: 07/26/18
+Sprint number: Sprint6
+File being reviewed: Lakitu.cs, LakituBall.cs, LakituFloatingState.cs, LakituThrowingState.cs
+Author of the .cs file being reviewed: Jack Lawton
+Number of minutes taken to complete the review: 20 mins
+
+Specific comments on code quality:
+- The names of variables and methods are clear
+- Clear and understandable design and implementation.- Code is cohesive only dealing with item collisions
+- Code is dependent only on what's necessary (low coupling).
+- Easily maintainable 
+
+Hypothetical change:
+By adding the lakitu files, other enemy classes will not be changed.Therefore, these classes is loose coupling.

@@ -1,0 +1,18 @@
+Author of the code review: Mo Zhou
+Date of the code review: 07/26/18
+Sprint number: Sprint6
+File being reviewed: CheatReader.cs, KeyboardController.cs
+Author of the .cs file being reviewed: Hecheng Zhang
+Number of minutes taken to complete the review: 20 mins
+
+Code Readability:
+1. The class Names are follows the consistency and are easy understand. 
+2. highly maintainable 
+3. Code is highly readable
+4. Codes are cleanly.
+
+
+
+
+
+

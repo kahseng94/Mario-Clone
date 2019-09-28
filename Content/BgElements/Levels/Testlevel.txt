@@ -1,0 +1,9 @@
+_,fire,_,coin,_,shroom,_,oneup,_,star,_,_,_,,_,_
+_,_,_,_,_,_,_,_,_,_,_,goomba,_,Koopa,_,_
+_,_,_,_,_,_,_,_,_,_,_,_,_,,_,_
+_,indBlock,_,usedblock,_,qblock,_,brick,_,gbrick,_,hidblock,_,pipe,_,_
+_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_
+_,_,_,_,_,_,_,mario,_,_,_,_,_,_,_,_
+_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_
+_,_,hill,_,_,_,bush,bush,bush,_,_,_,_,_,_,_
+gbrick,gbrick,gbrick,gbrick,gbrick,gbrick,gbrick,gbrick,gbrick,gbrick,gbrick,gbrick,gbrick,gbrick,gbrick,gbrick
